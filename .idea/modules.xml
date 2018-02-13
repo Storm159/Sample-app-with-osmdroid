@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloOsmdroid.iml" filepath="$PROJECT_DIR$/HelloOsmdroid.iml" />
+      <module fileurl="file://D:\Projects\Android\hello-osmdroid\HelloOsmdroid.iml" filepath="D:\Projects\Android\hello-osmdroid\HelloOsmdroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hello-osmdroid.iml" filepath="$PROJECT_DIR$/.idea/hello-osmdroid.iml" />
     </modules>
   </component>
 </project>
